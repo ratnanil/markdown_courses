@@ -11,6 +11,7 @@ We maninly use bookdown for courses at our university, however we are constantly
 - https://datavizf17.classes.andrewheiss.com/ (Brigham Young University)
 - https://ismayc.github.io/soc301_s2017/ (Pacific University)
 - https://slu-soc5050.github.io/ (Saint Louis University)
+- https://slu-soc1120.github.io/ (Saint Louis University)
 
 ## Bookdown:
 
