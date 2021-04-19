@@ -34,6 +34,8 @@ We maninly use bookdown for courses at our university, however we are constantly
 ## Blogdown + Bookdown
 - https://dcl-docs.stanford.edu/home/
 
+## Distill
+- https://oliviergimenez.github.io/bayesian-stats-with-R/
 
 ## RMarkdown
 - https://dataviz-2021.netlify.app/ (University of Oregon)
